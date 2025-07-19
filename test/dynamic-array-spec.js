@@ -22,6 +22,7 @@ describe('Dynamic Array', function () {
     )
   })
 
+
   it('has capacity, length and data properties', function () {
 
     expect(dynamicArr.capacity).to.equal(4);
